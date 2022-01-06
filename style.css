@@ -1,0 +1,117 @@
+body {
+	margin: 0 auto;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 20px;
+}
+h1 {
+	font-size: 50px;
+}
+h2 {
+	font-size: 45px;
+}
+section {
+	padding: 30px 70px;
+	}
+.flexiable-container {
+	margin: 0;
+	display: flex;
+}
+.half-width {
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+	padding-left: 2%;
+}
+.header-left h2 {
+	color:#00AEEF;
+}
+.header-left-withbg {
+	border-left: 5px solid;
+	border-color: purple;
+	border-image-slice: 1;
+}
+.header-left-withbg h1, h2 {
+	padding-left: 10px;
+}
+.anchor-button {
+	text-decoration: none;
+	background-color: #00AEEF;
+	padding: 10px 40px;
+	border-radius: 10px;
+	color: white;
+	font-size: 20px;
+	font-weight: 700;
+}
+.feature-img img {
+	width: 100%;
+}
+.mission h1 {
+	text-align: center;
+}
+.mission span {
+	color: #00AEEF;
+}
+.mission-item {
+	margin: 0 20px;
+	padding: 10px 20px;
+	border-radius: 20px;
+	width: 30%;
+}
+.mission-item {
+	margin-top: 10px;
+    margin-bottom: 70px;
+}
+.mission #my-mission {
+	background-color: #3043B8;
+}
+.mission #my-vission {
+	background-color: #728565;
+}
+.mission #my-goals {
+	background-color: #9C91ED;
+}
+.mission-item img {
+	width: 50%;
+}
+.developmentarea img {
+	width: 100%;
+}
+.devecontent {
+	padding: 10px 50px;
+}
+.communitycontent {
+	padding: 10px 50px;
+}
+.experience-section p {
+	font-size: 40px;
+}
+.experience-section .experienceitem {
+	background-color: #00AEEF;
+	background-repeat: no-repeat;
+	background-position: cover;
+	padding: 50px 20px;
+}
+.experience-section img {
+	width: 50%;
+}
+.experience-section span {
+	color: #00AEEF;
+}
+.experience-section h1 {
+	text-align: center;
+}
+.experienceitem {
+	margin: 0 20px;
+	padding: 10px;
+	border-radius: 20px;
+	width: 25%;
+	text-align: center;
+}
+.footer-bg {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.footer-bg span {
+	color: #00AEEF;
+}
